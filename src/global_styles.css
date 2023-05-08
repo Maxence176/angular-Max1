@@ -20,3 +20,12 @@
   margin: auto;
   background: white;
 }
+#bigX {
+  font-weight: bold;
+  font-size: 28px;
+  color: grey;
+  float: right;
+}
+#bigX:hover {
+  color: red;
+}

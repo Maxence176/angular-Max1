@@ -10,7 +10,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
   template: `
     <div class="container"> 
       <div class="model">
-        <button> </button>
+        <button> Hi     </button>
       </div>
     </div>
   `,
