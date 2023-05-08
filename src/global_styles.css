@@ -14,7 +14,9 @@
   z-index: 1;
   padding-top: 100px;
 }
-.model{
+.model {
   width: 50%;
   height: 25%;
+  margin: auto;
+  background: white;
 }
